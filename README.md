@@ -13,7 +13,7 @@ Difundir la causa de Save The Children aumentando el número de visitantes a la 
 	-Aumentar el número de visitantes que lleguen por FB en 10% en los próximos 2 meses por medios de publicaciones
 	relacionadas a los artículos de la página principal.
 
-###Estrategia:
+### Estrategia:
 
 Reforzar la credibilidad de Save The Children aumentando el número de visitantes para convertirlos a donantes
 
@@ -53,7 +53,7 @@ https://apoyo.savethechildren.mx/
 ##### 1.- Heurística: Consistency and standards
 ##### Severidad: 1
 
-![Evaluación heurística](./assets/images/Heurística_01.png)
+![Evaluación heurística](./assets/images/Heuristica_01.png)
 
 ##### Notas:
 Los botones no están homologados en tamaño y en diálogo, el usuario no debería cuestionarse si los distintos botones significan la misma acción.
@@ -63,7 +63,7 @@ Homologar las palabras y los estilos de los botones, ya que todos presentan la m
 ##### 1.- Heurística: Aesthetic and minimalist design
 ##### Severidad: 1
 
-![Evaluación heurística](./assets/images/Heurística_02.png)
+![Evaluación heurística](./assets/images/Heuristica_02.png)
 ##### Notas:
 Los textos son muy largos, disminuyen la visibilidad de la información relevante.
 ##### Recomendación:
