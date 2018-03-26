@@ -3,12 +3,12 @@
 ![logo](./assets/images/logo_black.png)
 
 ##### Equipo de trabajo
-Tania Sosa / UX Researcher
-Karina Quesada / UX Researcher
-Jasmín López  / UX Researcher
-Carmen Vega / UX Designer
-Adriana Dillarza / UX Designer
-Elzbeth Blanco / Product  Owner
+- Tania Sosa / UX Researcher
+- Karina Quesada / UX Researcher
+- Jasmín López  / UX Researcher
+- Carmen Vega / UX Designer
+- Adriana Dillarza / UX Designer
+- Elzbeth Blanco / Product  Owner
 
 #### Objetivo:
 Mejorar el flujo de visitantes de landing page que llegan por medio de la publicidad
@@ -35,18 +35,18 @@ Difundir la causa de Save The Children aumentando el número de visitantes a la 
 
 #### Ejercicio Generando propuestas para objetivo de negocio
 
-- OBJETIVO DE NEGOCIO
+- Objetivo de negocio
   Convertir a un mayor número de empresas locales y globales en aliados estratégicos, en un lapso de 6 meses.
-- PROBLEMAS
+- Problemas
   Realizar campañas de relaciones públicas para aumentar las alianzas con corporativos, y no alcanzar las metas establecidas en las alianzas.
-- CAUSA RAÍZ
+- Causa Raíz
   Falta de planeación estratégica, al no definir una estrategia específica para corporativos locales y para corporativos globales.
-- MÉTRICA
+- Métrica
   Porcentaje de incremento de aliados locales y globales sobre el porcentaje previo.
-- HERRAMIENTA ONLINE
-- PREGUNTA CERRADA A USUARIO
+- Herramienta Online -
+- Pregunta cerrada a usuario
   ¿Consideras como una estrategia de valor, crear una alianza corporativa con Save the Children México?
-- PREGUNTA ABIERTA A USUARIO
+- Pregunta abierta a usuario
   ¿Cuáles son los beneficios que esperan al convertirse en aliado estratégico de Save the Children México?
 
 ## Evaluación heurística Landing, realizada con UX Check
@@ -86,7 +86,7 @@ https://www.figma.com/file/CPGDisslrGAlXtcKZHEDMi8P/Propuesta_landing?node-id=1%
 
 ### Landig Page  basada en un Sistema de Diseño global de Save the Children
 
-![Propuesta Landing](./assets/images/propuesta_landing_SSTC.png)
+![Propuesta Landing](./assets/images/landing_SSTC.png)
 
 ### Prototipo Propuesta de App Defensores de la Niñez
 
