@@ -35,19 +35,19 @@ Difundir la causa de Save The Children aumentando el número de visitantes a la 
 
 #### Ejercicio Generando propuestas para objetivo de negocio
 
-- Objetivo de negocio
-  Convertir a un mayor número de empresas locales y globales en aliados estratégicos, en un lapso de 6 meses.
-- Problemas
-  Realizar campañas de relaciones públicas para aumentar las alianzas con corporativos, y no alcanzar las metas establecidas en las alianzas.
-- Causa Raíz
-  Falta de planeación estratégica, al no definir una estrategia específica para corporativos locales y para corporativos globales.
-- Métrica
-  Porcentaje de incremento de aliados locales y globales sobre el porcentaje previo.
+- Objetivo de negocio:
+  - Convertir a un mayor número de empresas locales y globales en aliados estratégicos, en un lapso de 6 meses.
+- Problemas:
+  - Realizar campañas de relaciones públicas para aumentar las alianzas con corporativos, y no alcanzar las metas establecidas en las alianzas.
+- Causa Raíz:
+  - Falta de planeación estratégica, al no definir una estrategia específica para corporativos locales y para corporativos globales.
+- Métrica:
+  - Porcentaje de incremento de aliados locales y globales sobre el porcentaje previo.
 - Herramienta Online -
-- Pregunta cerrada a usuario
-  ¿Consideras como una estrategia de valor, crear una alianza corporativa con Save the Children México?
-- Pregunta abierta a usuario
-  ¿Cuáles son los beneficios que esperan al convertirse en aliado estratégico de Save the Children México?
+- Pregunta cerrada a usuario:
+  - ¿Consideras como una estrategia de valor, crear una alianza corporativa con Save the Children México?
+- Pregunta abierta a usuario:
+  - ¿Cuáles son los beneficios que esperan al convertirse en aliado estratégico de Save the Children México?
 
 ## Evaluación heurística Landing, realizada con UX Check
 https://apoyo.savethechildren.mx/
