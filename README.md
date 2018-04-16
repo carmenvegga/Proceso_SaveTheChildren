@@ -1,5 +1,6 @@
+# Proyecto Save the Children
 ## UX Sprint 2
-### Proyecto Save the Children
+
 ![logo](./assets/images/logo_black.png)
 
 ##### Equipo de trabajo
@@ -33,7 +34,7 @@ Difundir la causa de Save The Children aumentando el número de visitantes a la 
 - Optimizar el proceso de donación al modificar la arquitectura del formulario para reducir a menos de 5 minutos para
 	completar la donación.
 
-#### Ejercicio Generando propuestas para objetivo de negocio
+#### Generando propuestas para objetivo de negocio
 
 - Objetivo de negocio:
   - Convertir a un mayor número de empresas locales y globales en aliados estratégicos, en un lapso de 6 meses.
