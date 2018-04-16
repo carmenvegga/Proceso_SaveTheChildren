@@ -75,7 +75,7 @@ Síntesis en la descripción de cada caso, destacar la información más importa
 ### Implementación de User Persona, primer acercamiento.
 ![User Persona](./assets/images/UserPersona.png)
 
-![Usere Persona #2](./assets/images/UserPersona_02.png)
+![Usere Persona 2](./assets/images/UserPersona_02.png)
 
 #### Prototipo Propuesta Landing Page
 
