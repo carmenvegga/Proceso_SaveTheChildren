@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-# Proyecto Save the Children
-## UX Sprint 2
-
-![logo](./assets/images/logo_black.png)
-=======
 # Proyecto Save the Children México
 ## UX Sprint 2
 
 ![logo_black](https://user-images.githubusercontent.com/30419144/38585699-6986e2f8-3ce0-11e8-81e0-577c6f3fa166.png)
->>>>>>> 06d09bca67109ba6bdbd636034d773e683def260
 
 ##### Equipo de trabajo
 - Tania Sosa / UX Researcher
