@@ -1,4 +1,4 @@
-# Proyecto Save the Children México
+# Proyecto Save the Children Mexico
 ## UX Sprint 2
 
 ![logo_black](https://user-images.githubusercontent.com/30419144/38585699-6986e2f8-3ce0-11e8-81e0-577c6f3fa166.png)
